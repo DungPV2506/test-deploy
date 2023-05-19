@@ -1,0 +1,6 @@
+{
+  "homepage": "",
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
